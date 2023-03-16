@@ -1,0 +1,11 @@
+/*BOOTSTRAP*/
+@import "node_modules/bootstrap/scss/bootstrap-grid.scss";
+
+//ELEMENTS
+@import "styles/elements/h.elements";
+@import "styles/elements/input.elements";
+
+//BLOCKS
+@import "styles/blocks/b.lista.blocks";
+@import "styles/blocks/b.tarea.blocks";
+@import "styles/blocks/b.botones.blocks";

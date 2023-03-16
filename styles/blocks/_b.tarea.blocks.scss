@@ -1,0 +1,22 @@
+.b-tarea-add{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.b-div-tarea{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    background-color: #dadada;
+    margin: 10px 0;
+}
+
+.b-nom-tarea{
+    font-size: 20px;
+    color: #353535;
+    margin: 10px 0 10px 10px;
+    width: 80%;
+    &--hecha{
+        color: green;
+    }
+}
